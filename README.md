@@ -1,10 +1,6 @@
 ## Abdul Wahab Khan
 
-<br>
-<br>
-</a>
-
-I am a full stack software developer currently working on C# and Javascript projects. Where I have also worked on PHP, Python and Java projects for numerous enterprises.
+I am a full stack software developer currently working on C# and Javascript (ReactJs, NestJs) projects. Where I have also worked on PHP, Python and Java projects for numerous enterprises.
 <!--
 **Abdul-Wahab-Khan/Abdul-Wahab-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

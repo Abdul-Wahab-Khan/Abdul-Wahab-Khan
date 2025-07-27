@@ -1,8 +1,5 @@
-## Abdul Wahab khan
+## Abdul Wahab Khan
 
-<a href="#">
-  <img align="left" src="https://github-readme-stats-five-psi-47.vercel.app/api?username=Abdul-Wahab-Khan&show_icons=true&count_private=true&theme=radical"  width=100%
-  height=auto />
 <br>
 <br>
 </a>
